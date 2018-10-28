@@ -1,7 +1,7 @@
 # MakerEngine-Brand
 store all assets related to MakerEngine brand
 
-Brand Creator : Yuri Vladimirovich Iarmoluk Brigadir
+Brand Creator : Yuri Brigadir
 
 Brand creation date : 2018 / 10 / 26 
 
