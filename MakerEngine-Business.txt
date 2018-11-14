@@ -13,13 +13,14 @@ One way of solving the business goals is by creating work that will be objective
 In order to make the work valuable for collectors, it needs to be both well known to the public and have a history of ownership by well known individuals.
 In theory, if the work gets exchanged between famous individuals every couple of years, then it will have a higher re-sale value.
 
+Solution:
 Here are potential stakeholders, who can enable the work to be more valuable :
 
 - art collectors, who can be restaurants, individuals, condos, public spaces such as insurance company offices and art galleries
 - art dealers and traders
 - artist co-ops
 
-In ideal world, to achieve the business goals of MakerEngine, all potential stakeholders have to be involved in one single art exchange community. They have to communicate with each other and broadcast potential opportunities for artists. Then everybody will have a better idea of what art is.
+In ideal world, to achieve the business goals of MakerEngine, all potential stakeholders have to be involved in one single art exchange community. They have to communicate with each other and broadcast potential opportunities for artists. They have to work together to increase the value of asset that they keep ( i.e art ). Then everybody will have a better idea of what art is.
 
 Vancouver is uniquely positioned for such a business because it has games industry, visual effects companies and vibrant community of visual artists.
 
