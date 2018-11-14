@@ -1,0 +1,29 @@
+MakerEngine outline :
+
+Goals:
+1.) increase the income of artists and reduce the time they spend on marketing their work and writing grant applications.
+2.) create consensus among artists, art buyers and collectors on what visual art is meant to be. This will lead to achievement of the first goal.
+
+Problem :
+There is no general consensus on what visual art is meant to be. Grant-giving organizations, collectors and art experts have a differing opinion on what kind of service art is.
+There is a lack of transparency and communication in the art marketplace between art dealers, artists and collectors. This results in bad deals and lost revenue for collectors. This is why galleries go out of business, artists earn low income and money launderers take advantage of slack pricing of art.
+The problem with current art marketplaces is that they benefit individual buyers only and try to extract as much commission from sales as possible. They are not creating a connected and efficient "supply chain" and marketplace for art.
+
+One way of solving the business goals is by creating work that will be objectively valuable for collectors and well known to public.
+In order to make the work valuable for collectors, it needs to be both well known to the public and have a history of ownership by well known individuals.
+In theory, if the work gets exchanged between famous individuals every couple of years, then it will have a higher re-sale value.
+
+Here are potential stakeholders, who can enable the work to be more valuable :
+
+- art collectors, who can be restaurants, individuals, condos, public spaces such as insurance company offices and art galleries
+- art dealers and traders
+- artist co-ops
+
+In ideal world, to achieve the business goals of MakerEngine, all potential stakeholders have to be involved in one single art exchange community. They have to communicate with each other and broadcast potential opportunities for artists. Then everybody will have a better idea of what art is.
+
+Vancouver is uniquely positioned for such a business because it has games industry, visual effects companies and vibrant community of visual artists.
+
+The biggest challenge is to initiate conversations with different stakeholders, ask them about their problems and create a rapport with them.
+
+NOTE :
+A separate problem is tracking a history of ownership of artworks. This involves highly complex technology which needs a significant amount of investment.
