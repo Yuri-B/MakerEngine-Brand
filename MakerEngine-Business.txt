@@ -28,3 +28,6 @@ The biggest challenge is to initiate conversations with different stakeholders, 
 
 NOTE :
 A separate problem is tracking a history of ownership of artworks. This involves highly complex technology which needs a significant amount of investment.
+
+---
+marketplaces are extracting commissions, and the goal is to increase the value and demand of art asset
