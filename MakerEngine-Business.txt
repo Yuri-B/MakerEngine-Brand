@@ -1,3 +1,6 @@
+Author : Yuri Brigadir
+Website : www.makerengine.com
+
 MakerEngine outline :
 
 Goals:
